@@ -49,14 +49,12 @@
 }
 
 .rating-star {
-  float: left;
-  font-size: 1.5em;
-  padding: 0 5px;
+  font-size: 1.1em;
 }
 
 a.rating-star-hover,
 a.rating-star-hover:hover {
-  color: #a38729;
+  color: #fdb817;
   text-decoration: none;
 }
 
